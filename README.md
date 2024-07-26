@@ -1,6 +1,6 @@
 # GPANEL
 
-![](https://raw.githubusercontent.com/cosarberk/gpanel/review/preview.gif)
+![](https://github.com/cosarberk/gpanel/blob/main/review/preview.gif)
 
 Global search panel for tables and columns in a MySQL database.
 
