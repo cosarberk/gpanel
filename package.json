@@ -1,0 +1,12 @@
+{
+  "name": "gpanel",
+  "version": "1.0.0",
+  "description": "Global search panel for tables and columns in a MySQL database.",
+  "main": "index.js",
+  "scripts": {
+    "start": "make run_server & make run_panel"
+  },
+  "keywords": [],
+  "author": "Berk Coşar<lookmainpoint@gmail.com>",
+  "license": "MIT"
+}
